@@ -1,7 +1,7 @@
 # puzzlegame
 Creating a professional puzzle game involves several steps and depends on the platform and programming language you're using. Below is a simple example of a puzzle game using Python and the Pygame library. This example is a basic sliding puzzle game.
 
-Feature of puzzle game
+**Feature of puzzle game**
 
 Puzzle games are a popular genre of video games that engage players in problem-solving activities, often requiring logical thinking, pattern recognition, and creativity. Here are some common features and characteristics of puzzle games:
 1. **Problem Solving*: Puzzle games revolve around the core concept of problem-solving. Players are presented with challenges or puzzles that require creative thinking and strategic planning to solve.
